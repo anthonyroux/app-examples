@@ -40,6 +40,3 @@ function App() {
 }
 
 ReactDOM.render(<App />, document.getElementById("root"));
-
-// insurance: 0205745717
-//   + 31 - 020 574 5715
